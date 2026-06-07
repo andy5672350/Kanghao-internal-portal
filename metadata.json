@@ -1,0 +1,6 @@
+{
+  "name": "康豪内部工具聚合库",
+  "description": "康豪进出口贸易有限公司内部工作坊聚合管理平台，提供B2B营销、包装设计、设计稿比对以及装柜计算的统一入口。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
